@@ -56,7 +56,7 @@ const Hero = () => {
                 <Github size={24} />
               </a>
               <a
-                href="https://your-resume-link.com"
+                href="https://drive.google.com/file/d/1NgY0ZJOGrUJOvmykYX7vZTvYy7Rt-fdO/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-3 rounded-full font-medium transition-all duration-300 hover:scale-105"
