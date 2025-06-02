@@ -32,8 +32,8 @@
   <p align="center">
     A simple web application to showcase my experiences and projects
     <br />
+    <br />
     <a href="https://syd-dev.org">View site</a>
-    &middot;
   </p>
 </div>
 
