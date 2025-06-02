@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section
       id="hero"
-      className="min-h-screen flex items-center justify-center px-6"
+      className="min-h-screen pt-20 flex items-center justify-center px-6"
     >
       <div className="max-w-6xl mx-auto w-full">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
@@ -38,7 +38,7 @@ const Hero = () => {
               </p>
             </div>
 
-            <div className="flex flex-col sm:flex-row items-center lg:justify-start justify-center gap-6 pt-8">
+            <div className="flex flex-row flex-wrap items-center justify-center lg:justify-start gap-4 pt-8">
               <a
                 href="https://linkedin.com/in/sydneyl-nguyen"
                 target="_blank"
