@@ -58,7 +58,7 @@ Sydney Nguyen - nguyensydney@pm.me
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[portfolio-screenshot]: ./public/images/syd.png
+[portfolio-screenshot]: ./src/assets/syd.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vite]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white
